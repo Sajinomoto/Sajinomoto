@@ -1,6 +1,6 @@
 # Hey, It's Saji here!
 
-<img src="https://media.tenor.com/Huqypeil3P4AAAAj/cat-yawn.gif" width="130" align="left" style="margin-right: 35px;" />
+<img src="https://media.tenor.com/3nQM5NxXNmcAAAAj/dancing-banana-family-guy.gif" width="130" align="left" style="margin-right: 35px;" />
 
 Hey, I'm a web dev who loves crafting awesome digital experiences when I'm not totally lost in a video game. I like to think my hardcore gaming habits actually make me a much better problem solver in my code. Whether it's building a sleek user interface or completing a tough side quest, I always give it my all. Check out my projects below and let's build something awesome together!
 
@@ -25,7 +25,9 @@ Hey, I'm a web dev who loves crafting awesome digital experiences when I'm not t
 
 <br/><br/><br/>
 
-<h1 align="center">Tech Stack</h1>
+<div align="center">
+  <img src="./tech-stack-title.svg" alt="Tech Stack" />
+</div>
 
 <br/>
 
