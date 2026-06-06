@@ -1,11 +1,14 @@
 # Hey, It's Saji here!
 
 Hey, I'm a web dev who loves crafting awesome digital experiences when I'm not totally lost in a video game. I like to think my hardcore gaming habits actually make me a much better problem solver in my code. Whether it's building a sleek user interface or completing a tough side quest, I always give it my all. Check out my projects below and let's build something awesome together!
+
+<br/><br/>
+
 <div align="center">
   <font color="#00FF00"><i>"Fear has killed more dreams than failure ever did."</i></font>
 </div>
 
-<br/>
+<br/><br/>
 
 <div align="center">
   <a href="https://www.instagram.com/saji.6787/" target="_blank">
@@ -16,23 +19,23 @@ Hey, I'm a web dev who loves crafting awesome digital experiences when I'm not t
   </a>
 </div>
 
-<br/>
+<br/><br/><br/>
 
 <h1 align="center">Tech Stack</h1>
+
+<br/>
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=cs,html,css,js,py,bun,express,laravel,nextjs,nodejs,npm,react,threejs,tailwind,vite,vue,apache,nginx,mysql,mongodb,postgres,supabase,redis,git,github,godot,unity" alt="Tech Stack" />
 </div>
 
-<br/>
+<br/><br/><br/>
 
-<table align="center" width="100%" style="border: none; background: transparent;">
-  <tr style="border: none; background: transparent;">
-    <td width="35%" style="border: none; background: transparent;"><hr/></td>
-    <td align="center" style="white-space: nowrap; border: none; background: transparent;"><h3>[Stats]</h3></td>
-    <td width="35%" style="border: none; background: transparent;"><hr/></td>
-  </tr>
-</table>
+<div align="center">
+  <img src="./stats-title.svg" alt="Stats" />
+</div>
+
+<br/>
 
 <div align="center">
   <table border="0" style="border: none; background: transparent;">
@@ -51,6 +54,8 @@ Hey, I'm a web dev who loves crafting awesome digital experiences when I'm not t
     </tr>
   </table>
 </div>
+
+<br/><br/>
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
