@@ -29,7 +29,52 @@ Hey, I'm a web dev who loves crafting awesome digital experiences when I'm not t
 <br/>
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=cs,html,css,js,py,bun,express,laravel,nextjs,nodejs,npm,react,threejs,tailwind,vite,vue,apache,nginx,mysql,mongodb,postgres,supabase,redis,git,github,godot,unity" alt="Tech Stack" />
+  <p><b>Core Technologies</b></p>
+  <img src="https://img.shields.io/badge/HTML5-000000?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-000000?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/JAVASCRIPT-000000?style=for-the-badge&logo=javascript&logoColor=white" />
+  <img src="https://img.shields.io/badge/PYTHON-000000?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/C%23-000000?style=for-the-badge&logo=csharp&logoColor=white" />
+  <img src="https://img.shields.io/badge/BUN-000000?style=for-the-badge&logo=bun&logoColor=white" />
+  <img src="https://img.shields.io/badge/NODE.JS-000000?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+</div>
+
+<br/>
+
+<div align="center">
+  <p><b>Frameworks & Libraries</b></p>
+  <img src="https://img.shields.io/badge/REACT-000000?style=for-the-badge&logo=react&logoColor=white" />
+  <img src="https://img.shields.io/badge/VUE.JS-000000?style=for-the-badge&logo=vuedotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/NEXT.JS-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/EXPRESS.JS-000000?style=for-the-badge&logo=express&logoColor=white" />
+  <img src="https://img.shields.io/badge/LARAVEL-000000?style=for-the-badge&logo=laravel&logoColor=white" />
+  <img src="https://img.shields.io/badge/TAILWIND%20CSS-000000?style=for-the-badge&logo=tailwindcss&logoColor=white" />
+  <img src="https://img.shields.io/badge/THREE.JS-000000?style=for-the-badge&logo=threedotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/VITE-000000?style=for-the-badge&logo=vite&logoColor=white" />
+</div>
+
+<br/>
+
+<div align="center">
+  <p><b>Databases & DevOps</b></p>
+  <img src="https://img.shields.io/badge/MYSQL-000000?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/POSTGRESQL-000000?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/MONGODB-000000?style=for-the-badge&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/REDIS-000000?style=for-the-badge&logo=redis&logoColor=white" />
+  <img src="https://img.shields.io/badge/SUPABASE-000000?style=for-the-badge&logo=supabase&logoColor=white" />
+  <img src="https://img.shields.io/badge/GIT-000000?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GITHUB-000000?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/NPM-000000?style=for-the-badge&logo=npm&logoColor=white" />
+  <img src="https://img.shields.io/badge/NGINX-000000?style=for-the-badge&logo=nginx&logoColor=white" />
+  <img src="https://img.shields.io/badge/APACHE-000000?style=for-the-badge&logo=apache&logoColor=white" />
+</div>
+
+<br/>
+
+<div align="center">
+  <p><b>Game Development</b></p>
+  <img src="https://img.shields.io/badge/UNITY-000000?style=for-the-badge&logo=unity&logoColor=white" />
+  <img src="https://img.shields.io/badge/GODOT-000000?style=for-the-badge&logo=godotengine&logoColor=white" />
 </div>
 
 <br/><br/><br/>
