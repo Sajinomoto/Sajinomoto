@@ -31,7 +31,7 @@ Hey, I'm a web dev who loves crafting awesome digital experiences when I'm not t
 <br/>
 
 <div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&backgroundColor=00000000&quoteColor=00FF00&authorColor=00FF00&symbolColor=00FF00&quote=Fear%20has%20killed%20more%20dreams%20than%20failure%20ever%20did.&author=" alt="Custom Quote" />
+  <font color="#00FF00"><i>"Fear has killed more dreams than failure ever did."</i></font>
 </div>
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
