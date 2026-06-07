@@ -35,7 +35,6 @@ Hey, I'm a web dev who loves crafting awesome digital experiences when I'm not t
   <img src="https://img.shields.io/badge/JAVASCRIPT-000000?style=for-the-badge&logo=javascript&logoColor=white" />
   <img src="https://img.shields.io/badge/PYTHON-000000?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/C%23-000000?style=for-the-badge&logo=csharp&logoColor=white" />
-  <img src="https://img.shields.io/badge/BUN-000000?style=for-the-badge&logo=bun&logoColor=white" />
   <img src="https://img.shields.io/badge/NODE.JS-000000?style=for-the-badge&logo=nodedotjs&logoColor=white" />
 </div>
 
@@ -58,15 +57,11 @@ Hey, I'm a web dev who loves crafting awesome digital experiences when I'm not t
 <div align="center">
   <p><b>Databases & DevOps</b></p>
   <img src="https://img.shields.io/badge/MYSQL-000000?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/POSTGRESQL-000000?style=for-the-badge&logo=postgresql&logoColor=white" />
   <img src="https://img.shields.io/badge/MONGODB-000000?style=for-the-badge&logo=mongodb&logoColor=white" />
   <img src="https://img.shields.io/badge/REDIS-000000?style=for-the-badge&logo=redis&logoColor=white" />
   <img src="https://img.shields.io/badge/SUPABASE-000000?style=for-the-badge&logo=supabase&logoColor=white" />
   <img src="https://img.shields.io/badge/GIT-000000?style=for-the-badge&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/GITHUB-000000?style=for-the-badge&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/NPM-000000?style=for-the-badge&logo=npm&logoColor=white" />
-  <img src="https://img.shields.io/badge/NGINX-000000?style=for-the-badge&logo=nginx&logoColor=white" />
-  <img src="https://img.shields.io/badge/APACHE-000000?style=for-the-badge&logo=apache&logoColor=white" />
 </div>
 
 <br/>
