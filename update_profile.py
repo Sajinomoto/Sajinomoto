@@ -224,67 +224,64 @@ text, tspan {{white-space: pre;}}
     svg += f'<tspan x="{stats_x}" y="45">{USER_NAME.lower()}@github</tspan> <tspan class="cc">{"-" * 40}</tspan>\n'
     
     # Line 2: OS
-    svg += format_stat_line(stats_x, 68, ["OS"], "Linux (Ubuntu / Arch), Windows 11") + "\n"
+    svg += format_stat_line(stats_x, 68, ["OS"], "Linux (CachyOS), Windows 11") + "\n"
     
     # Line 3: Uptime
     svg += format_stat_line(stats_x, 91, ["Uptime"], uptime_val) + "\n"
     
-    # Line 4: Host
-    svg += format_stat_line(stats_x, 114, ["Host"], "Universitas Sebelas Maret") + "\n"
+    # Line 4: Institution
+    svg += format_stat_line(stats_x, 114, ["Institution"], "Universitas Sebelas Maret") + "\n"
     
-    # Line 5: Kernel
-    svg += format_stat_line(stats_x, 137, ["Kernel"], "Web Developer &amp; Game Enthusiast") + "\n"
+    # Line 5: Tools
+    svg += format_stat_line(stats_x, 137, ["Tools"], "VS Code, Unity, Godot") + "\n"
     
-    # Line 6: IDE
-    svg += format_stat_line(stats_x, 160, ["IDE"], "VS Code, Unity, Godot") + "\n"
+    # Line 6: Empty
+    svg += f'<tspan x="{stats_x}" y="160"> </tspan>\n'
     
-    # Line 7: Empty
-    svg += f'<tspan x="{stats_x}" y="183"> </tspan>\n'
+    # Line 7: Languages.Programming
+    svg += format_stat_line(stats_x, 183, ["Languages", "Programming"], "JavaScript, Python, C#, PHP") + "\n"
     
-    # Line 8: Languages.Programming
-    svg += format_stat_line(stats_x, 206, ["Languages", "Programming"], "JavaScript, Python, C#, PHP") + "\n"
+    # Line 8: Languages.Computer
+    svg += format_stat_line(stats_x, 206, ["Languages", "Computer"], "HTML, CSS, JSON, SQL") + "\n"
     
-    # Line 9: Languages.Computer
-    svg += format_stat_line(stats_x, 229, ["Languages", "Computer"], "HTML, CSS, JSON, SQL") + "\n"
+    # Line 9: Languages.Real
+    svg += format_stat_line(stats_x, 229, ["Languages", "Real"], "Indonesian (Native), English") + "\n"
     
-    # Line 10: Languages.Real
-    svg += format_stat_line(stats_x, 252, ["Languages", "Real"], "Indonesian (Native), English") + "\n"
+    # Line 10: Empty
+    svg += f'<tspan x="{stats_x}" y="252"> </tspan>\n'
     
-    # Line 11: Empty
-    svg += f'<tspan x="{stats_x}" y="275"> </tspan>\n'
+    # Line 11: Hobbies.Software
+    svg += format_stat_line(stats_x, 275, ["Hobbies", "Software"], "Web Crafting, Game Dev, Gaming") + "\n"
     
-    # Line 12: Hobbies.Software
-    svg += format_stat_line(stats_x, 298, ["Hobbies", "Software"], "Web Crafting, Game Dev, Gaming") + "\n"
+    # Line 12: Hobbies.Hardware
+    svg += format_stat_line(stats_x, 298, ["Hobbies", "Hardware"], "PC Building, Mechanical Keyboards") + "\n"
     
-    # Line 13: Hobbies.Hardware
-    svg += format_stat_line(stats_x, 321, ["Hobbies", "Hardware"], "PC Building, Mechanical Keyboards") + "\n"
+    # Line 13: Empty
+    svg += f'<tspan x="{stats_x}" y="321"> </tspan>\n'
     
-    # Line 14: Empty
-    svg += f'<tspan x="{stats_x}" y="344"> </tspan>\n'
+    # Line 14: Contact divider
+    svg += f'<tspan x="{stats_x}" y="344">- Contact</tspan> <tspan class="cc">{"-" * 48}</tspan>\n'
     
-    # Line 15: Contact divider
-    svg += f'<tspan x="{stats_x}" y="367">- Contact</tspan> <tspan class="cc">{"-" * 48}</tspan>\n'
+    # Line 15: Email
+    svg += format_stat_line(stats_x, 367, ["Email"], "saji6787@gmail.com") + "\n"
     
-    # Line 16: Email
-    svg += format_stat_line(stats_x, 390, ["Email"], "saji6787@gmail.com") + "\n"
+    # Line 16: Instagram
+    svg += format_stat_line(stats_x, 390, ["Instagram"], "saji.6787") + "\n"
     
-    # Line 17: Instagram
-    svg += format_stat_line(stats_x, 413, ["Instagram"], "saji.6787") + "\n"
+    # Line 17: GitHub
+    svg += format_stat_line(stats_x, 413, ["GitHub"], "Sajinomoto") + "\n"
     
-    # Line 18: GitHub
-    svg += format_stat_line(stats_x, 436, ["GitHub"], "Sajinomoto") + "\n"
+    # Line 18: Website
+    svg += format_stat_line(stats_x, 436, ["Website"], "sajinomoto.my.id") + "\n"
     
-    # Line 19: Website
-    svg += format_stat_line(stats_x, 459, ["Website"], "sajinomoto.my.id") + "\n"
-    
-    # Line 20, 21: Empty
+    # Line 19, 20: Empty
+    svg += f'<tspan x="{stats_x}" y="459"> </tspan>\n'
     svg += f'<tspan x="{stats_x}" y="482"> </tspan>\n'
-    svg += f'<tspan x="{stats_x}" y="505"> </tspan>\n'
     
-    # Line 22: GitHub Stats Divider
-    svg += f'<tspan x="{stats_x}" y="528">- GitHub Stats</tspan> <tspan class="cc">{"-" * 43}</tspan>\n'
+    # Line 21: GitHub Stats Divider
+    svg += f'<tspan x="{stats_x}" y="505">- GitHub Stats</tspan> <tspan class="cc">{"-" * 43}</tspan>\n'
     
-    # Line 23: Repos and Stars
+    # Line 22: Repos and Stars
     repo_val = stats["repos"]
     contrib_val = stats["contributed"]
     star_val = stats["stars"]
@@ -295,18 +292,18 @@ text, tspan {{white-space: pre;}}
     # Calculate dots for Repos/Stars line
     # Format: . Repos: XXX {Contributed: YYY} | Stars: ZZZ
     # Let's build a customized line
-    svg += f'<tspan x="{stats_x}" y="551" class="cc">. </tspan><tspan class="key">Repos</tspan>:<tspan class="cc"> .... </tspan><tspan class="value">{repos_text}</tspan> {{<tspan class="key">Contributed</tspan>: <tspan class="value">{contrib_val}</tspan>}} | <tspan class="key">Stars</tspan>:<tspan class="cc"> ........... </tspan><tspan class="value">{stars_text}</tspan>\n'
+    svg += f'<tspan x="{stats_x}" y="528" class="cc">. </tspan><tspan class="key">Repos</tspan>:<tspan class="cc"> .... </tspan><tspan class="value">{repos_text}</tspan> {{<tspan class="key">Contributed</tspan>: <tspan class="value">{contrib_val}</tspan>}} | <tspan class="key">Stars</tspan>:<tspan class="cc"> ........... </tspan><tspan class="value">{stars_text}</tspan>\n'
     
-    # Line 24: Commits and Followers
+    # Line 23: Commits and Followers
     commit_val = f"{stats['commits']:,}"
     follower_val = f"{stats['followers']:,}"
-    svg += f'<tspan x="{stats_x}" y="574" class="cc">. </tspan><tspan class="key">Commits</tspan>:<tspan class="cc"> ................... </tspan><tspan class="value">{commit_val}</tspan> | <tspan class="key">Followers</tspan>:<tspan class="cc"> ....... </tspan><tspan class="value">{follower_val}</tspan>\n'
+    svg += f'<tspan x="{stats_x}" y="551" class="cc">. </tspan><tspan class="key">Commits</tspan>:<tspan class="cc"> ................... </tspan><tspan class="value">{commit_val}</tspan> | <tspan class="key">Followers</tspan>:<tspan class="cc"> ....... </tspan><tspan class="value">{follower_val}</tspan>\n'
     
-    # Line 25: Lines of Code
+    # Line 24: Lines of Code
     loc_val = f"{stats['loc']:,}"
     loc_add = f"{stats['loc_add']:,}"
     loc_del = f"{stats['loc_del']:,}"
-    svg += f'<tspan x="{stats_x}" y="597" class="cc">. </tspan><tspan class="key">Lines of Code on GitHub</tspan>:<tspan class="cc">. </tspan><tspan class="value">{loc_val}</tspan> ( <tspan class="addColor">{loc_add}</tspan><tspan class="addColor">++</tspan>, <tspan class="delColor">{loc_del}</tspan><tspan class="delColor">--</tspan> )\n'
+    svg += f'<tspan x="{stats_x}" y="574" class="cc">. </tspan><tspan class="key">Lines of Code on GitHub</tspan>:<tspan class="cc">. </tspan><tspan class="value">{loc_val}</tspan> ( <tspan class="addColor">{loc_add}</tspan><tspan class="addColor">++</tspan>, <tspan class="delColor">{loc_del}</tspan><tspan class="delColor">--</tspan> )\n'
     
     svg += '</text>\n</svg>'
     

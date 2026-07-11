@@ -81,29 +81,28 @@ text, tspan {white-space: pre;}
 </text>
 <text x="450" y="45" fill="#24292f">
 <tspan x="450" y="45">sajinomoto@github</tspan> <tspan class="cc">----------------------------------------</tspan>
-<tspan x="450" y="68" class="cc">. </tspan><tspan class="key">OS</tspan>:<tspan class="cc"> .................. </tspan><tspan class="value">Linux (Ubuntu / Arch), Windows 11</tspan>
+<tspan x="450" y="68" class="cc">. </tspan><tspan class="key">OS</tspan>:<tspan class="cc"> ........................ </tspan><tspan class="value">Linux (CachyOS), Windows 11</tspan>
 <tspan x="450" y="91" class="cc">. </tspan><tspan class="key">Uptime</tspan>:<tspan class="cc"> .............................. </tspan><tspan class="value">7 years, 3 months</tspan>
-<tspan x="450" y="114" class="cc">. </tspan><tspan class="key">Host</tspan>:<tspan class="cc"> ........................ </tspan><tspan class="value">Universitas Sebelas Maret</tspan>
-<tspan x="450" y="137" class="cc">. </tspan><tspan class="key">Kernel</tspan>:<tspan class="cc"> ............ </tspan><tspan class="value">Web Developer &amp; Game Enthusiast</tspan>
-<tspan x="450" y="160" class="cc">. </tspan><tspan class="key">IDE</tspan>:<tspan class="cc"> ............................. </tspan><tspan class="value">VS Code, Unity, Godot</tspan>
-<tspan x="450" y="183"> </tspan>
-<tspan x="450" y="206" class="cc">. </tspan><tspan class="key">Languages</tspan>.<tspan class="key">Programming</tspan>:<tspan class="cc"> ..... </tspan><tspan class="value">JavaScript, Python, C#, PHP</tspan>
-<tspan x="450" y="229" class="cc">. </tspan><tspan class="key">Languages</tspan>.<tspan class="key">Computer</tspan>:<tspan class="cc"> ............... </tspan><tspan class="value">HTML, CSS, JSON, SQL</tspan>
-<tspan x="450" y="252" class="cc">. </tspan><tspan class="key">Languages</tspan>.<tspan class="key">Real</tspan>:<tspan class="cc"> ........... </tspan><tspan class="value">Indonesian (Native), English</tspan>
-<tspan x="450" y="275"> </tspan>
-<tspan x="450" y="298" class="cc">. </tspan><tspan class="key">Hobbies</tspan>.<tspan class="key">Software</tspan>:<tspan class="cc"> ....... </tspan><tspan class="value">Web Crafting, Game Dev, Gaming</tspan>
-<tspan x="450" y="321" class="cc">. </tspan><tspan class="key">Hobbies</tspan>.<tspan class="key">Hardware</tspan>:<tspan class="cc"> .... </tspan><tspan class="value">PC Building, Mechanical Keyboards</tspan>
-<tspan x="450" y="344"> </tspan>
-<tspan x="450" y="367">- Contact</tspan> <tspan class="cc">------------------------------------------------</tspan>
-<tspan x="450" y="390" class="cc">. </tspan><tspan class="key">Email</tspan>:<tspan class="cc"> .............................. </tspan><tspan class="value">saji6787@gmail.com</tspan>
-<tspan x="450" y="413" class="cc">. </tspan><tspan class="key">Instagram</tspan>:<tspan class="cc"> ................................... </tspan><tspan class="value">saji.6787</tspan>
-<tspan x="450" y="436" class="cc">. </tspan><tspan class="key">GitHub</tspan>:<tspan class="cc"> ..................................... </tspan><tspan class="value">Sajinomoto</tspan>
-<tspan x="450" y="459" class="cc">. </tspan><tspan class="key">Website</tspan>:<tspan class="cc"> .............................. </tspan><tspan class="value">sajinomoto.my.id</tspan>
+<tspan x="450" y="114" class="cc">. </tspan><tspan class="key">Institution</tspan>:<tspan class="cc"> ................. </tspan><tspan class="value">Universitas Sebelas Maret</tspan>
+<tspan x="450" y="137" class="cc">. </tspan><tspan class="key">Tools</tspan>:<tspan class="cc"> ........................... </tspan><tspan class="value">VS Code, Unity, Godot</tspan>
+<tspan x="450" y="160"> </tspan>
+<tspan x="450" y="183" class="cc">. </tspan><tspan class="key">Languages</tspan>.<tspan class="key">Programming</tspan>:<tspan class="cc"> ..... </tspan><tspan class="value">JavaScript, Python, C#, PHP</tspan>
+<tspan x="450" y="206" class="cc">. </tspan><tspan class="key">Languages</tspan>.<tspan class="key">Computer</tspan>:<tspan class="cc"> ............... </tspan><tspan class="value">HTML, CSS, JSON, SQL</tspan>
+<tspan x="450" y="229" class="cc">. </tspan><tspan class="key">Languages</tspan>.<tspan class="key">Real</tspan>:<tspan class="cc"> ........... </tspan><tspan class="value">Indonesian (Native), English</tspan>
+<tspan x="450" y="252"> </tspan>
+<tspan x="450" y="275" class="cc">. </tspan><tspan class="key">Hobbies</tspan>.<tspan class="key">Software</tspan>:<tspan class="cc"> ....... </tspan><tspan class="value">Web Crafting, Game Dev, Gaming</tspan>
+<tspan x="450" y="298" class="cc">. </tspan><tspan class="key">Hobbies</tspan>.<tspan class="key">Hardware</tspan>:<tspan class="cc"> .... </tspan><tspan class="value">PC Building, Mechanical Keyboards</tspan>
+<tspan x="450" y="321"> </tspan>
+<tspan x="450" y="344">- Contact</tspan> <tspan class="cc">------------------------------------------------</tspan>
+<tspan x="450" y="367" class="cc">. </tspan><tspan class="key">Email</tspan>:<tspan class="cc"> .............................. </tspan><tspan class="value">saji6787@gmail.com</tspan>
+<tspan x="450" y="390" class="cc">. </tspan><tspan class="key">Instagram</tspan>:<tspan class="cc"> ................................... </tspan><tspan class="value">saji.6787</tspan>
+<tspan x="450" y="413" class="cc">. </tspan><tspan class="key">GitHub</tspan>:<tspan class="cc"> ..................................... </tspan><tspan class="value">Sajinomoto</tspan>
+<tspan x="450" y="436" class="cc">. </tspan><tspan class="key">Website</tspan>:<tspan class="cc"> .............................. </tspan><tspan class="value">sajinomoto.my.id</tspan>
+<tspan x="450" y="459"> </tspan>
 <tspan x="450" y="482"> </tspan>
-<tspan x="450" y="505"> </tspan>
-<tspan x="450" y="528">- GitHub Stats</tspan> <tspan class="cc">-------------------------------------------</tspan>
-<tspan x="450" y="551" class="cc">. </tspan><tspan class="key">Repos</tspan>:<tspan class="cc"> .... </tspan><tspan class="value">23</tspan> {<tspan class="key">Contributed</tspan>: <tspan class="value">25</tspan>} | <tspan class="key">Stars</tspan>:<tspan class="cc"> ........... </tspan><tspan class="value">3</tspan>
-<tspan x="450" y="574" class="cc">. </tspan><tspan class="key">Commits</tspan>:<tspan class="cc"> ................... </tspan><tspan class="value">383</tspan> | <tspan class="key">Followers</tspan>:<tspan class="cc"> ....... </tspan><tspan class="value">26</tspan>
-<tspan x="450" y="597" class="cc">. </tspan><tspan class="key">Lines of Code on GitHub</tspan>:<tspan class="cc">. </tspan><tspan class="value">12,500</tspan> ( <tspan class="addColor">15,400</tspan><tspan class="addColor">++</tspan>, <tspan class="delColor">2,900</tspan><tspan class="delColor">--</tspan> )
+<tspan x="450" y="505">- GitHub Stats</tspan> <tspan class="cc">-------------------------------------------</tspan>
+<tspan x="450" y="528" class="cc">. </tspan><tspan class="key">Repos</tspan>:<tspan class="cc"> .... </tspan><tspan class="value">23</tspan> {<tspan class="key">Contributed</tspan>: <tspan class="value">25</tspan>} | <tspan class="key">Stars</tspan>:<tspan class="cc"> ........... </tspan><tspan class="value">3</tspan>
+<tspan x="450" y="551" class="cc">. </tspan><tspan class="key">Commits</tspan>:<tspan class="cc"> ................... </tspan><tspan class="value">383</tspan> | <tspan class="key">Followers</tspan>:<tspan class="cc"> ....... </tspan><tspan class="value">26</tspan>
+<tspan x="450" y="574" class="cc">. </tspan><tspan class="key">Lines of Code on GitHub</tspan>:<tspan class="cc">. </tspan><tspan class="value">12,500</tspan> ( <tspan class="addColor">15,400</tspan><tspan class="addColor">++</tspan>, <tspan class="delColor">2,900</tspan><tspan class="delColor">--</tspan> )
 </text>
 </svg>
