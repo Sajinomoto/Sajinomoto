@@ -1,0 +1,109 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<svg xmlns="http://www.w3.org/2000/svg" font-family="ConsolasFallback,Consolas,monospace" width="1040px" height="640px" font-size="15px">
+<style>
+@font-face {
+src: local('Consolas'), local('Consolas Bold');
+font-family: 'ConsolasFallback';
+font-display: swap;
+-webkit-size-adjust: 109%;
+size-adjust: 109%;
+}
+.key {fill: #ffa657;}
+.value {fill: #a5d6ff;}
+.addColor {fill: #3fb950;}
+.delColor {fill: #f85149;}
+.cc {fill: #616e7f;}
+text, tspan {white-space: pre;}
+</style>
+<rect width="1040px" height="640px" fill="#161b22" rx="15"/>
+<text x="25" y="30" fill="#c9d1d9" font-size="8px" font-weight="bold" class="ascii">
+<tspan x="25" y="30.00">                                ....                                                </tspan>
+<tspan x="25" y="39.50">                           .::::::::--::::.                                         </tspan>
+<tspan x="25" y="49.00">                       ..::::::::-------::::::.                                     </tspan>
+<tspan x="25" y="58.50">                      ::::=::::::--====--:::::::.                                   </tspan>
+<tspan x="25" y="68.00">                    ....:=------=========-=-:::.::.                                 </tspan>
+<tspan x="25" y="77.50">                   ...::-===-:--========----::::.:::                                </tspan>
+<tspan x="25" y="87.00">                  ...:=::=::.::::::----:::::::::...:.                               </tspan>
+<tspan x="25" y="96.50">                 .:..:=::-:.....:::::::::::::-:.....::                              </tspan>
+<tspan x="25" y="106.00">                 :....::..:. .............::::--:...::.                             </tspan>
+<tspan x="25" y="115.50">                .:.... . ...   ....      .::---::-::...                             </tspan>
+<tspan x="25" y="125.00">                ...     .  ..    .       .:......:::: .                             </tspan>
+<tspan x="25" y="134.50">                ....        ..         .:.  .:.. .:   .                             </tspan>
+<tspan x="25" y="144.00">               :.:.        .  .   . . .   ....                                      </tspan>
+<tspan x="25" y="153.50">              ::..:         . .            .. ..                                    </tspan>
+<tspan x="25" y="163.00">             .:.::....    ...             .. ..                                     </tspan>
+<tspan x="25" y="172.50">             .::...:...    ..    .   .   .....                                      </tspan>
+<tspan x="25" y="182.00">             .:: .       .       . .     ... .                                      </tspan>
+<tspan x="25" y="191.50">             ...  . ..   . .  .. ..     ..:..       .:.                             </tspan>
+<tspan x="25" y="201.00">             ... .  .::..::::.. ..... . . ...       ...                             </tspan>
+<tspan x="25" y="210.50">             ..::  ....   ....:::--:::::::::::...  .:.                              </tspan>
+<tspan x="25" y="220.00">              .  .    ... ....::::....:-:::-=:. .   .                               </tspan>
+<tspan x="25" y="229.50">              .    ....  ... :.....::::::...... .. ..                               </tspan>
+<tspan x="25" y="239.00">              ...      ..   ..... .  ...   ...    ..                                </tspan>
+<tspan x="25" y="248.50">               ...      ... ....  .....   ...   ...                                 </tspan>
+<tspan x="25" y="258.00">                ....  .::....... ......:::::   ..                                   </tspan>
+<tspan x="25" y="267.50">              . .. .   ..  ... ......::=-::.   .                                    </tspan>
+<tspan x="25" y="277.00">              . .:       ...::.....:---:-:.   .. .                                  </tspan>
+<tspan x="25" y="286.50">              . .:  .      ... ..::-----..:::.:. ..                                 </tspan>
+<tspan x="25" y="296.00">               ..:....  :.......::----:.......:.::::                                </tspan>
+<tspan x="25" y="305.50">                ... ..  .    ..::-=---::::::::...:=-:.                              </tspan>
+<tspan x="25" y="315.00">                 :.   ..:.. ..:-::=====:......:.::==-::                             </tspan>
+<tspan x="25" y="324.50">                 ..       ... .::-=-::..::......:-===---:                           </tspan>
+<tspan x="25" y="334.00">                  ..         . :-.... ... .: .:.:-======--:                         </tspan>
+<tspan x="25" y="343.50">                   :::..:....... .  ..      ....::::=--===-::                       </tspan>
+<tspan x="25" y="353.00">                   ...::..   .... ...       ..... ..::---===--:.                    </tspan>
+<tspan x="25" y="362.50">                   ...:... :....    .        .      ..::---===-::.                  </tspan>
+<tspan x="25" y="372.00">                    .::...::...            ..        ..:-----===-:::                </tspan>
+<tspan x="25" y="381.50">                     .::..:.:              ...       ...:::::---=-::::.             </tspan>
+<tspan x="25" y="391.00">                    . .:....  .       .     .           :----::-----::.:.           </tspan>
+<tspan x="25" y="400.50">                    .. :.  .     .     .   .          .::::-----=---:::::::.        </tspan>
+<tspan x="25" y="410.00">                    :. ..  ...  .    ..      ..     :::----==-----------:-:::....   </tspan>
+<tspan x="25" y="419.50">                   ::. .....  ..      .     .    .::::::::----------------:::::.... </tspan>
+<tspan x="25" y="429.00">                  .:..  . .  .. .  .   .            ...::::----::::---::::--::::...:</tspan>
+<tspan x="25" y="438.50">               ..::::.   ..                       ....::::::::-::::::--:::::-:::::::</tspan>
+<tspan x="25" y="448.00">           .::::::::        :-::..     ....      . ..  ..:----==-::::::-::::::.:::::</tspan>
+<tspan x="25" y="457.50">         .:::--::::--.:.   ..::-=::..   :::..     .::. ........:........      ::...:</tspan>
+<tspan x="25" y="467.00">       .::==:.:.:-==-:::.. .::===-:-:  ::=::. :.    ..       ....              .:  .</tspan>
+<tspan x="25" y="476.50">     .:::--:. .:-==:::-:.....:::::. . .::=-:..:        .                       :. .:</tspan>
+<tspan x="25" y="486.00">    :.  ::-. .:-=====::....::...:::.::-=--=::.                 .               ...::</tspan>
+<tspan x="25" y="495.50">   :.  :::. .::===-=-:.:-:-:.....:-::-:=-:-=-:.                .::.                .</tspan>
+<tspan x="25" y="505.00">  .. :.:-. ..:=--==::. ..::-:...::-::=:::=-:::::. .       .  ..  ..                 </tspan>
+<tspan x="25" y="514.50">  .  .:-:  .:-:..:-:. .::..::  .:-:-:....:-::.... ..              .       .         </tspan>
+<tspan x="25" y="524.00">  . .:-.  .:-:.::::. .-:...:.. :---:.  . .......     .                              </tspan>
+<tspan x="25" y="533.50">  ..::.   .::::::.:.  .--.:.. :::-:.    ...... ::.         ...   .                  </tspan>
+<tspan x="25" y="543.00">  .::     ::...::.::  :-:-.. ::.-:.      .....:.   .        . ..                    </tspan>
+<tspan x="25" y="552.50">  ::.:   .:...::..    ....:.  ..-.      . .:.                  .:   .               </tspan>
+<tspan x="25" y="562.00"> ::.   ..:.:::: .    :: ..:    ::       ...  .            . .   ....:..             </tspan>
+<tspan x="25" y="571.50"> :.     ..... .  .:           ...     .                  .         .. ::            </tspan>
+<tspan x="25" y="581.00">.:      :..    .              .    .   .             .:.     ..      . .:..         </tspan>
+<tspan x="25" y="590.50"> .:     ..  .  . .                 .              ...                            .  </tspan>
+<tspan x="25" y="600.00"> ::  .         . .      ...   .               ....                                ..</tspan>
+</text>
+<text x="450" y="45" fill="#c9d1d9">
+<tspan x="450" y="45">sajinomoto@github</tspan> <tspan class="cc">----------------------------------------</tspan>
+<tspan x="450" y="68" class="cc">. </tspan><tspan class="key">OS</tspan>:<tspan class="cc"> .................. </tspan><tspan class="value">Linux (Ubuntu / Arch), Windows 11</tspan>
+<tspan x="450" y="91" class="cc">. </tspan><tspan class="key">Uptime</tspan>:<tspan class="cc"> .............................. </tspan><tspan class="value">7 years, 3 months</tspan>
+<tspan x="450" y="114" class="cc">. </tspan><tspan class="key">Host</tspan>:<tspan class="cc"> ........................ </tspan><tspan class="value">Universitas Sebelas Maret</tspan>
+<tspan x="450" y="137" class="cc">. </tspan><tspan class="key">Kernel</tspan>:<tspan class="cc"> ............ </tspan><tspan class="value">Web Developer &amp; Game Enthusiast</tspan>
+<tspan x="450" y="160" class="cc">. </tspan><tspan class="key">IDE</tspan>:<tspan class="cc"> ............................. </tspan><tspan class="value">VS Code, Unity, Godot</tspan>
+<tspan x="450" y="183"> </tspan>
+<tspan x="450" y="206" class="cc">. </tspan><tspan class="key">Languages</tspan>.<tspan class="key">Programming</tspan>:<tspan class="cc"> ..... </tspan><tspan class="value">JavaScript, Python, C#, PHP</tspan>
+<tspan x="450" y="229" class="cc">. </tspan><tspan class="key">Languages</tspan>.<tspan class="key">Computer</tspan>:<tspan class="cc"> ............... </tspan><tspan class="value">HTML, CSS, JSON, SQL</tspan>
+<tspan x="450" y="252" class="cc">. </tspan><tspan class="key">Languages</tspan>.<tspan class="key">Real</tspan>:<tspan class="cc"> ........... </tspan><tspan class="value">Indonesian (Native), English</tspan>
+<tspan x="450" y="275"> </tspan>
+<tspan x="450" y="298" class="cc">. </tspan><tspan class="key">Hobbies</tspan>.<tspan class="key">Software</tspan>:<tspan class="cc"> ....... </tspan><tspan class="value">Web Crafting, Game Dev, Gaming</tspan>
+<tspan x="450" y="321" class="cc">. </tspan><tspan class="key">Hobbies</tspan>.<tspan class="key">Hardware</tspan>:<tspan class="cc"> .... </tspan><tspan class="value">PC Building, Mechanical Keyboards</tspan>
+<tspan x="450" y="344"> </tspan>
+<tspan x="450" y="367">- Contact</tspan> <tspan class="cc">------------------------------------------------</tspan>
+<tspan x="450" y="390" class="cc">. </tspan><tspan class="key">Email</tspan>:<tspan class="cc"> .............................. </tspan><tspan class="value">saji6787@gmail.com</tspan>
+<tspan x="450" y="413" class="cc">. </tspan><tspan class="key">Instagram</tspan>:<tspan class="cc"> ................................... </tspan><tspan class="value">saji.6787</tspan>
+<tspan x="450" y="436" class="cc">. </tspan><tspan class="key">GitHub</tspan>:<tspan class="cc"> ..................................... </tspan><tspan class="value">Sajinomoto</tspan>
+<tspan x="450" y="459" class="cc">. </tspan><tspan class="key">Website</tspan>:<tspan class="cc"> .............................. </tspan><tspan class="value">sajinomoto.my.id</tspan>
+<tspan x="450" y="482"> </tspan>
+<tspan x="450" y="505"> </tspan>
+<tspan x="450" y="528">- GitHub Stats</tspan> <tspan class="cc">-------------------------------------------</tspan>
+<tspan x="450" y="551" class="cc">. </tspan><tspan class="key">Repos</tspan>:<tspan class="cc"> .... </tspan><tspan class="value">23</tspan> {<tspan class="key">Contributed</tspan>: <tspan class="value">25</tspan>} | <tspan class="key">Stars</tspan>:<tspan class="cc"> ........... </tspan><tspan class="value">3</tspan>
+<tspan x="450" y="574" class="cc">. </tspan><tspan class="key">Commits</tspan>:<tspan class="cc"> ................... </tspan><tspan class="value">383</tspan> | <tspan class="key">Followers</tspan>:<tspan class="cc"> ....... </tspan><tspan class="value">26</tspan>
+<tspan x="450" y="597" class="cc">. </tspan><tspan class="key">Lines of Code on GitHub</tspan>:<tspan class="cc">. </tspan><tspan class="value">12,500</tspan> ( <tspan class="addColor">15,400</tspan><tspan class="addColor">++</tspan>, <tspan class="delColor">2,900</tspan><tspan class="delColor">--</tspan> )
+</text>
+</svg>
